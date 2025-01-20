@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <Handle>example-t-shirt</Handle>
+        <Title>Example T-Shirt</Title>
+        <Body_HTML>&lt;strong&gt;Good product!&lt;/strong&gt;</Body_HTML>
+        <Vendor>Acme</Vendor>
+        <Product_Category>Apparel &amp; Accessories &gt; Clothing</Product_Category>
+        <Type>Shirts</Type>
+        <Tags>mens t-shirt example</Tags>
+        <Published>TRUE</Published>
+        <Option1_Name>Title</Option1_Name>
+        <Option1_Value>Lithograph - Height: 9&quot; x Width: 12&quot;</Option1_Value>
+        <Variant_SKU></Variant_SKU>
+        <Variant_Grams>3629</Variant_Grams>
+        <Variant_Inventory_Tracker></Variant_Inventory_Tracker>
+        <Variant_Inventory_Qty></Variant_Inventory_Qty>
+        <Variant_Inventory_Policy>deny</Variant_Inventory_Policy>
+        <Variant_Fulfillment_Service>manual</Variant_Fulfillment_Service>
+        <Variant_Price>25</Variant_Price>
+        <Variant_Compare_At_Price></Variant_Compare_At_Price>
+        <Variant_Requires_Shipping>TRUE</Variant_Requires_Shipping>
+        <Variant_Taxable>TRUE</Variant_Taxable>
+        <Variant_Barcode></Variant_Barcode>
+        <Image_Src>https://burst.shopifycdn.com/photos/green-t-shirt.jpg?width=5000</Image_Src>
+        <Image_Position>1</Image_Position>
+        <Image_Alt_Text></Image_Alt_Text>
+        <Gift_Card>FALSE</Gift_Card>
+        <SEO_Title>Our awesome T-shirt in 70 characters or less.</SEO_Title>
+        <SEO_Description>A great description of your products in 320 characters or less</SEO_Description>
+        <Google_Shopping>
+            <Google_Product_Category>Apparel &amp; Accessories &gt; Clothing</Google_Product_Category>
+            <Gender>Unisex</Gender>
+            <Age_Group>Adult</Age_Group>
+            <MPN>7X8ABC910</MPN>
+            <AdWords_Grouping>T-shirts</AdWords_Grouping>
+            <AdWords_Labels>cotton, pre-shrunk</AdWords_Labels>
+            <Condition>used</Condition>
+            <Custom_Product>FALSE</Custom_Product>
+            <Custom_Label_0></Custom_Label_0>
+            <Custom_Label_1></Custom_Label_1>
+            <Custom_Label_2></Custom_Label_2>
+            <Custom_Label_3></Custom_Label_3>
+            <Custom_Label_4></Custom_Label_4>
+        </Google_Shopping>
+        <Variant_Image></Variant_Image>
+        <Variant_Weight_Unit>g</Variant_Weight_Unit>
+        <Variant_Tax_Code></Variant_Tax_Code>
+        <Cost_per_item></Cost_per_item>
+        <Price_International></Price_International>
+        <Compare_At_Price_International></Compare_At_Price_International>
+        <Status>active</Status>
+    </product>
+    <!-- Thêm các sản phẩm khác tương tự -->
+</products>
