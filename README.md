@@ -1,4 +1,5 @@
 # Setup
-1. Copy auth_gg.json.example thành auth_gg.json
-2. Cập nhật credentials trong auth_gg.json
-3. Tạo file .env từ .env.example và cập nhật các biến môi trường
+b1. Thêm 2 file .env và auth_gg.json
+b2. Cài môi trường với python3.12  "python3.12 -m venv venv"
+b3. Active với ubuntu "source venv/bin/activate"
+b4. Chạy main.py "python3 main.py"

@@ -97,7 +97,7 @@ def main():
             elif choice == '0': 
                 break
             else:
-                print("ádasd")
+                print("Lựa chọn không hợp lệ , Vui lòng chọn lại !!!!!     ")
         
     except KeyboardInterrupt:
         print(f"thoát chương trình")
